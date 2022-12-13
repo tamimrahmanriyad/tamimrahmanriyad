@@ -51,6 +51,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&locale=en&layout=compact" alt="tamimrahmanriyad"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&locale=en" alt="tamimrahmanriyad"/></p>
+<p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&locale=en" alt="tamimrahmanriyad"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&" alt="tamimrahmanriyad"/></p>
