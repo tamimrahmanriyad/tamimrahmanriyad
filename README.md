@@ -50,7 +50,9 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&locale=en&layout=compact" alt="tamimrahmanriyad"/></p>
-
+<br/>
+<br/>
 <p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&locale=en" alt="tamimrahmanriyad"/></p>
-
+<br/>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&" alt="tamimrahmanriyad"/></p>
