@@ -25,9 +25,7 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamimrahmanriyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamimrahmanriyad/" height="30" width="40" /></a>
-  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" height="30" width="40" /></a>
-  
 <a href="https://fb.com/https://www.facebook.com/tamim.rahman.riyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tamim.rahman.riyad" height="30" width="40" /></a>
 </p>
 
