@@ -1,6 +1,6 @@
 ![photo](https://i.pinimg.com/originals/45/d1/db/45d1db2f2af39c5c53a43af6ee935079.gif)
 <h1 align="center">Hi 👋, I'm Tamim Rahman Riyad</h1>
-<h3 align="center">i am studying computer science and Engineering at daffodil international university.</h3>
+<h3 align="center">I am studying computer science and Engineering at daffodil international university.</h3>
 
 (img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif")
 
@@ -8,6 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamimrahmanriyad&label=Profile%20views&color=0e75b6&style=flat" alt="tamimrahmanriyad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimrahmanriyad" alt="tamimrahmanriyad" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **DiFly Tech Ltd.**
 
