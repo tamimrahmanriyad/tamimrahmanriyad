@@ -50,10 +50,19 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&locale=en&layout=compact" alt="tamimrahmanriyad"/></p>
-<br/>
-<br/>
-<p>&nbsp;<img align="Right" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&locale=en" alt="tamimrahmanriyad"/></p>
-<br/>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&" alt="tamimrahmanriyad"/></p>
+
+
+### ✔ Github Activity:
+
+<a href="https://github.com/tamimrahmanriyad">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
+ </a>
+
+
+<a href="https://github.com/tamimrahmanriyad">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="Riyad's github stats"/>
+</a>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&theme=highcontrast" alt="Riyad's Streak Stats"/></p>
+
