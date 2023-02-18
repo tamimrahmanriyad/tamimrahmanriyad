@@ -23,7 +23,7 @@ I am studying computer science and Engineering at daffodil international univers
 - 📫 How to reach me **riyadrahman7788@gmail.com**
 
 - ⚡ Fun fact **I Love To Have Fun**
-
+</br>
 
   
 ### 🏆 GitHub Profile Trophy:
@@ -33,7 +33,7 @@ I am studying computer science and Engineering at daffodil international univers
 <br/>
  
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝Connect with me:</h3>
 <p align="left">
   
 <a href="https://github.com/tamimrahmanriyad">
