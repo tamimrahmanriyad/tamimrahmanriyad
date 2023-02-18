@@ -5,11 +5,7 @@
 Hi 👋, I'm Tamim Rahman Riyad</br>
 I am studying computer science and Engineering at daffodil international university </br>
 
-### 🏆 GitHub Profile Trophy:
-<br/>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="tamimrahmanriyad" /> </p>
-</p>
-<br/>
+
 
   
 </div>
@@ -30,6 +26,12 @@ I am studying computer science and Engineering at daffodil international univers
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  ### 🏆 GitHub Profile Trophy:
+<br/>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="tamimrahmanriyad" /> </p>
+</p>
+<br/>
  
 
 
