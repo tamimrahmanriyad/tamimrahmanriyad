@@ -24,8 +24,7 @@ I am studying computer science and Engineering at daffodil international univers
 
 - ⚡ Fun fact **I Love To Have Fun**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
   
   ### 🏆 GitHub Profile Trophy:
 <br/>
@@ -34,7 +33,8 @@ I am studying computer science and Engineering at daffodil international univers
 <br/>
  
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://github.com/tamimrahmanriyad">
   <img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
