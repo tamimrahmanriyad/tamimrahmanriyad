@@ -28,8 +28,29 @@ I am studying computer science and Engineering at daffodil international univers
  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamimrahmanriyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamimrahmanriyad/" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" height="30" width="40" /></a> 
-<a href="https://fb.com/https://www.facebook.com/tamim.rahman.riyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tamim.rahman.riyad" height="30" width="40" /></a>
-</p>
+
+
+<a href="https://github.com/tamimrahmanriyad">
+  <img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://www.facebook.com/tamim.rahman.riyad">
+  <img align="left" alt="https://www.facebook.com/tamim.rahman.riyad" width="26px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://twitter.com/TeslaWAGMI">
+  <img align="left" alt="FjRabbi's Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+ 
+ <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile">
+  <img align="left" alt="https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-fajle-rabbi-islam/">
+  <img align="left" alt="FjRabbi's Linkdein" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
