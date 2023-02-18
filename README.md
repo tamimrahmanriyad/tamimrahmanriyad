@@ -26,7 +26,7 @@ I am studying computer science and Engineering at daffodil international univers
 
 
   
-  ### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 <br/>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="tamimrahmanriyad" /> </p>
 </p>
