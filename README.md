@@ -82,9 +82,10 @@ I am studying computer science and Engineering at Daffodil International Univers
 
 ### ✔ Github Activity:
 
-<a href="https://github.com/tamimrahmanriyad">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019"/>
+<a href="https://github.com/tamimrahmanriyad/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019"/>
  </a>
+
 
 
 <a href="https://github.com/tamimrahmanriyad">
