@@ -3,7 +3,7 @@
 
 ### :octocat: About me: 
 Hi 👋, I'm Tamim Rahman Riyad</br>
-I am studying computer science and Engineering at daffodil international university </br>
+I am studying computer science and Engineering at Daffodil International University </br>
 
 
 
@@ -83,7 +83,7 @@ I am studying computer science and Engineering at daffodil international univers
 ### ✔ Github Activity:
 
 <a href="https://github.com/tamimrahmanriyad">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019"/>
  </a>
 
 
