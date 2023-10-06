@@ -20,7 +20,7 @@ I am studying computer science and Engineering at Daffodil International Univers
 
 - 💬 Ask me about **Front End Development.**
 
-- 📫 How to reach me **riyadrahman7788@gmail.com**
+- 📫 How to reach me **tamimrahmanriyad@gmail.com**
 
 - ⚡ Fun fact **I Love To Have Fun**
 </br>
