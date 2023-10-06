@@ -18,7 +18,7 @@ I am studying computer science and Engineering at Daffodil International Univers
 
 - 👨‍💻 My Portfolio Link [https://proriyad.netlify.app](https://proriyad.netlify.app)
 
-- 💬 Ask me about **Front End Development.**
+- 💬 Ask me about **Software Quality Assurance**
 
 - 📫 How to reach me **tamimrahmanriyad@gmail.com**
 
