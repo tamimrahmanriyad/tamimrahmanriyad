@@ -14,7 +14,7 @@ I am studying computer science and Engineering at Daffodil International Univers
 
 - 🔭 I’m currently working on **DiFly Tech Ltd.**
 
-- 🌱 I’m currently learning **Flutter Development.**
+- 🌱 I’m currently learning **Software Quality Assurance.**
 
 - 👨‍💻 My Portfolio Link [https://proriyad.netlify.app](https://proriyad.netlify.app)
 
