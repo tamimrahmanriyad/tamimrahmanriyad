@@ -12,7 +12,7 @@ I am studying computer science and Engineering at Daffodil International Univers
 
 
 
-- 🔭 I’m currently working on **DiFly Tech Ltd.**
+<!---- 🔭 I’m currently working on **DiFly Tech Ltd.**!--->
 
 - 🌱 I’m currently learning **Software Quality Assurance.**
 
