@@ -87,7 +87,7 @@ Software Quality Assurance </br>
  </a>--->
 
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&locale=en&layout=compact" alt="tamimrahmanriyad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tamimrahmanriyad" /></p>
 
 
 <a href="https://github.com/tamimrahmanriyad">
