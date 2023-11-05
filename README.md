@@ -86,6 +86,8 @@ Software Quality Assurance </br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019"/>
  </a>--->
 
+ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&locale=en" alt="tamimrahmanriyad" /></p>
 
 
 <a href="https://github.com/tamimrahmanriyad">
@@ -94,6 +96,7 @@ Software Quality Assurance </br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&theme=highcontrast" alt="Riyad Streak Stats"/></p>
+
 
 
 Last Update Date: 05/11/2023
