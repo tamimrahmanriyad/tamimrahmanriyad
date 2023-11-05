@@ -52,7 +52,7 @@ Software Quality Assurance </br>
   <img align="left" alt="https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tamimrahmanriyad/">
+<a href="https://www.linkedin.com/in/tamimrahmanriyad/">
   <img align="left" alt="https://www.linkedin.com/in/tamimrahmanriyad/" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
