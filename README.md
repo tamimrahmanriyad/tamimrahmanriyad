@@ -3,7 +3,7 @@
 
 ### :octocat: About me: 
 Hi 👋, I'm Tamim Rahman Riyad</br>
-I am studying computer science and Engineering at Daffodil International University </br>
+Software Quality Assurance </br>
 
 
 
