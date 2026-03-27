@@ -3,7 +3,7 @@
 
 ### About me: 
 Hi 👋, I'm Tamim Rahman Riyad</br>
-Software Quality Assurance </br>
+Technical Support Executive </br>
 
 
 
@@ -12,13 +12,13 @@ Software Quality Assurance </br>
 
 
 
-<!---- 🔭 I’m currently working on **DiFly Tech Ltd.**!--->
+- 🔭 I’m currently working on **Eximus Technologies.**!
 
-- 🌱 I’m currently learning **Software Quality Assurance.**
+- 🌱 I’m currently learning **IT Support Engineer.**
 
 - 👨‍💻 My Portfolio Link [https://proriyad.netlify.app](https://proriyad.netlify.app)
 
-- 💬 Ask me about **Software Quality Assurance**
+<!-- 💬 Ask me about **Software Quality Assurance**!-->
 
 - 📫 How to reach me **tamimrahmanriyad@gmail.com**
 
