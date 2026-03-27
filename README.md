@@ -1,103 +1,91 @@
-
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s8c0d6gsnhufnc6lp1ik90chj4a98dpds2sx1578&rid=giphy.gif&ct=g"/>
-
-### About me: 
-Hi 👋, I'm Tamim Rahman Riyad</br>
-Technical Support Executive </br>
-
-
-
-  
-</div>
-
-
-
-- 🔭 I’m currently working on **Eximus Technologies.**!
-
-- 🌱 I’m currently learning **IT Support Engineer.**
-
-- 👨‍💻 My Portfolio Link [https://proriyad.netlify.app](https://proriyad.netlify.app)
-
-<!-- 💬 Ask me about **Software Quality Assurance**!-->
-
-- 📫 How to reach me **tamimrahmanriyad@gmail.com**
-
-- ⚡ Fun fact **I Love To Have Fun**
-</br>
-
-  
-### 🏆 GitHub Profile Trophy:
-<br/>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="tamimrahmanriyad" /> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Tamim%20Rahman%20Riyad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
-<br/>
- 
 
-<h3 align="left"> 🤝Connect with me:</h3>
+<p align="center">
+  <a href="https://proriyad.netlify.app">
+    <img src="https://img.shields.io/badge/-Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:tamimrahmanriyad@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tamimrahmanriyad/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">💻 Technical Support Executive | 💡 Problem Solver | 🚀 Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Support+Engineer;Troubleshooting;;Automation+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 🔭 Currently Working at **Eximus Technologies**.
+- 🌱 Mastering **Software Troubleshooting, Manual Testing, Problem Solving**.
+- 💡 Specialized in technical troubleshooting and providing seamless system support.
+- ⚡ Fun fact: I believe a good laugh solves problems as fast as a good script.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="left">
-  
-<a href="https://github.com/tamimrahmanriyad">
-  <img align="left" alt="" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-<a href="https://www.facebook.com/tamim.rahman.riyad">
-  <img align="left" alt="https://www.facebook.com/tamim.rahman.riyad" width="26px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-<a href="https://twitter.com/TamimRahman1404">
-  <img align="left" alt="https://twitter.com/TamimRahman1404" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
- 
- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile">
-  <img align="left" alt="https://stackoverflow.com/users/20768843/tamim-rahman?tab=profile" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />
-</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+---
 
-<a href="https://www.linkedin.com/in/tamimrahmanriyad/">
-  <img align="left" alt="https://www.linkedin.com/in/tamimrahmanriyad/" width="26px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
+### 📊 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimrahmanriyad&layout=compact&theme=tokyonight&hide_border=false" height="180"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tamimrahmanriyad&theme=tokyonight&hide_border=false" width="100%"/>
+</p>
 
+---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🏆 Trophies
+<p align="center">
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=tamimrahmanriyad&theme=tokyonight&no-frame=false&row=1&column=6&margin-w=15"/>!-->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=tamimrahmanriyad&theme=tokyonight&no-bg=true&margin-w=4"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-</a>   
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>   
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>   
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>   
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> </p>
+---
 
+### 🧠 Current Focus
+- 🔧 **Advanced Infrastructure:** Deep diving into automation and scripting for system reliability.
+- 🌐 **Web Security:** Enhancing expertise in SSL/TLS protocols and DNS architecture.
+- ⚙️ **User Experience:** Bridging the gap between technical support and seamless UI/UX.
 
+---
 
-### ✔ Github Activity:
-
-<!---<a href="https://github.com/tamimrahmanriyad/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimrahmanriyad&langs_count=10&show_icons=true&theme=highcontrast&layout=default&count_private=true&line_height=30&title_color=fd8019"/>
- </a>--->
-
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamimrahmanriyad&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="tamimrahmanriyad" /></p>
-
-
-<a href="https://github.com/tamimrahmanriyad">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&theme=highcontrast&count_private=true&line_height=30&title_color=fd8019" alt="Riyad github stats"/>
-</a>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimrahmanriyad&theme=highcontrast" alt="Riyad Streak Stats"/></p>
-
-
-
-
-<!--Last Update Date: 20/03/2024-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tamimrahmanriyad&label=Profile%20Views&color=00b4d8&style=flat" alt="Profile Views" />
+</p>
