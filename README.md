@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Tamim%20Rahman%20Riyad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Tamim%20Rahman%20Riyad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Tamim%20Rahman%20Riyad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Support%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
