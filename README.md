@@ -17,7 +17,7 @@
 <h3 align="center">💻 Technical Support Executive | 💡 Problem Solver | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines= Tecnical+Support+Engineer;Troubleshooting;;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Tecnical+Support+Engineer;Troubleshooting;;Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
