@@ -106,13 +106,13 @@
 
 </div>
 
-<details>
-<summary>⚙️ How to enable the snake animation</summary>
+<!--<details>-->
+<!--<summary>⚙️ How to enable the snake animation</summary>
 
-1. Go to your profile repository: `github.com/tamimrahmanriyad/tamimrahmanriyad`
+<!--1. Go to your profile repository: `github.com/tamimrahmanriyad/tamimrahmanriyad`
 2. Create `.github/workflows/snake.yml` with this content:
 
-```yaml
+yaml
 name: Generate Snake
 
 on:
@@ -135,12 +135,11 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}-->
 
-3. Run the workflow manually once → snake appears!
+<!--3. Run the workflow manually once → snake appears-->
 
-</details>
+<!--</details>-->
 
 ---
 
