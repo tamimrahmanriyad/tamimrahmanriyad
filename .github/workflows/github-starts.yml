@@ -1,37 +1,30 @@
-name: Github Stats
+name: GitHub Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour
+    - cron: "0 * * * *"
   push:
     branches: [main]
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Purge GitHub image cache for stats cards
+      - name: Update timestamp in README
         run: |
-          URLS=(
-            "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
-            "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
-            "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
-            "https://streak-stats.demolab.com/?user=tamimrahmanriyad&theme=tokyonight&hide_border=true&cache_seconds=1800"
-          )
-          for URL in "${URLS[@]}"; do
-            CAMO=$(curl -s "https://api.github.com/repos/tamimrahmanriyad/tamimrahmanriyad/readme" \
-              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" | grep -o "camo.githubusercontent.com[^\"]*" | head -1)
-            curl -X PURGE "https://$CAMO" || true
-            curl -s "$URL" > /dev/null
-          done
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          sed -i "s|<!-- STATS_LAST_UPDATED:.*-->|<!-- STATS_LAST_UPDATED: $TIMESTAMP -->|" README.md
 
-      - name: Touch README to trigger cache bust
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          sed -i "s/<!-- updated:.* -->/<!-- updated: $(date -u '+%Y-%m-%d %H:%M UTC') -->/" README.md
-          git diff --quiet || git commit -am "chore: refresh stats cache [skip ci]"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update stats timestamp [skip ci]"
           git push
