@@ -62,37 +62,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/tamimrahmanriyad">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamimrahmanriyad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-</a>
-<a href="https://github.com/tamimrahmanriyad">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimrahmanriyad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="39%" />
-</a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800" />
 </div>
-
 <div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=tamimrahmanriyad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=tamimrahmanriyad&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamimrahmanriyad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</a>
-
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=tamimrahmanriyad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
----
+--->
 
 ## 🐍 Contribution Snake
 
