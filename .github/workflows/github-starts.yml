@@ -1,0 +1,37 @@
+name: Github Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Purge GitHub image cache for stats cards
+        run: |
+          URLS=(
+            "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
+            "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
+            "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamimrahmanriyad&theme=tokyonight&cache_seconds=1800"
+            "https://streak-stats.demolab.com/?user=tamimrahmanriyad&theme=tokyonight&hide_border=true&cache_seconds=1800"
+          )
+          for URL in "${URLS[@]}"; do
+            CAMO=$(curl -s "https://api.github.com/repos/tamimrahmanriyad/tamimrahmanriyad/readme" \
+              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" | grep -o "camo.githubusercontent.com[^\"]*" | head -1)
+            curl -X PURGE "https://$CAMO" || true
+            curl -s "$URL" > /dev/null
+          done
+
+      - name: Touch README to trigger cache bust
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i "s/<!-- updated:.* -->/<!-- updated: $(date -u '+%Y-%m-%d %H:%M UTC') -->/" README.md
+          git diff --quiet || git commit -am "chore: refresh stats cache [skip ci]"
+          git push
