@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://proriyad.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tamim-rahman-riyad.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimrahmanriyad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamimrahmanriyad/)
 [![Profile Views](https://komarev.com/ghpvc/?username=tamimrahmanriyad&label=Profile+Views&color=00b4d8&style=for-the-badge)](https://github.com/tamimrahmanriyad)
@@ -138,7 +138,7 @@ jobs:
 
 I'm always open to collaborating on interesting projects, discussing tech, or just saying hi!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00b4d8?style=for-the-badge)](https://proriyad.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00b4d8?style=for-the-badge)](https://tamim-rahman-riyad.vercel.app)
 [![Email](https://img.shields.io/badge/📧_Email-Send-EA4335?style=for-the-badge)](mailto:tamimrahmanriyad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/tamimrahmanriyad/)
 
